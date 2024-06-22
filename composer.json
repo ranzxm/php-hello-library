@@ -1,0 +1,19 @@
+{
+    "name": "ranzz/phphellolibrary",
+    "description": "PHP Hello Library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ranzz\\Phphellolibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Frans Simamora",
+            "email": "franskece3@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=8.0"
+    }
+}
